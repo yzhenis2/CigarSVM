@@ -1,0 +1,30 @@
+<a class="col order-md-last" href="/ratings/24656/name/partagas-maduro-no-1-robusto" title="Partagás Maduro No. 1">
+<img alt="Partagás Maduro No. 1" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24656-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24639/name/h-upmann-half-corona-odd" title="H. Upmann Half Corona">
+<img alt="H. Upmann Half Corona" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24639-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24643/name/montecristo-media-corona-odd" title="Montecristo Media Corona">
+<img alt="Montecristo Media Corona" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24643-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24523/name/quai-d-orsay-no-50-odd" title="Quai d'Orsay No. 50">
+<img alt="Quai d'Orsay No. 50" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24523-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24661/name/hoyo-de-monterrey-epicure-no-1-toro" title="Hoyo de Monterrey Epicure No. 1">
+<img alt="Hoyo de Monterrey Epicure No. 1" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24661-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24630/name/h-upmann-connossieur-a-toro" title="H. Upmann Connossieur A">
+<img alt="H. Upmann Connossieur A" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24630-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24650/name/partagas-serie-d-no-5-odd" title="Partagás Serie D No. 5">
+<img alt="Partagás Serie D No. 5" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24650-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24624/name/trinidad-topes-robusto" title="Trinidad Topes">
+<img alt="Trinidad Topes" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24624-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24705/name/ramon-allones-allones-no-3-toro" title="Ramon Allones Allones No. 3">
+<img alt="Ramon Allones Allones No. 3" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24705-H.jpg"/>
+</a>
+<a class="col order-md-last" href="/ratings/24683/name/rafael-gonzalez-corona-de-lonsdale-robusto" title="Rafael Gonzalez Corona De Lonsdale">
+<img alt="Rafael Gonzalez Corona De Lonsdale" src="https://mshanken.imgix.net/cao/ratings_extras/cigars/24683-H.jpg"/>
+</a>

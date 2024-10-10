@@ -1,0 +1,4 @@
+Accuracy: 0.987885462555066
+Precision: 0.0
+Recall: 0.0
+5-fold validation scores:  [0.99009901 0.99173554 0.99173554 0.99173554 0.99008264]
